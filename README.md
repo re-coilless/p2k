@@ -1,0 +1,1 @@
+a general purpose engine manipulator designed to provide advanced debugging capabilities, [M-Nee](https://github.com/re-coilless/mnee) is required
