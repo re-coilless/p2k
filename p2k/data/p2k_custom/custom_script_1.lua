@@ -25,4 +25,4 @@ GamePrint( "Custom Script 1 Was Executed." )
 
 -- GameCreateParticle( "meat_burned", cam_x, cam_y, 1, 0, 0, false, false )
 
-EntityLoad( "data/entities/animals/scavenger_smg.xml", cam_x, cam_y )
+EntityLoad( "data/entities/animals/scavenger_smg.xml", m_x, m_y )

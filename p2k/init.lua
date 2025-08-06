@@ -1,4 +1,20 @@
-ModRegisterAudioEventMappings( "mods/p2k/files/sfx/GUIDs.txt" )
+--The Prospero Saga: Chapter 1 "The Setup"
+
+-- bootable
+-- Noose (pie menu for capturing that gets all entities in the radius + gizmo + entity inspection)
+-- Loupe (various visual overlays, zooming, gridlines, entity highlighting)
+-- Tyrant (ruler with degree calculation and global memory)
+-- Conjurer (spawner window, spells/entities/items/scenes, credit ryyst)
+-- Demiurge (material browser window with basic paiting)
+-- Crusader (classic games like pong, tetris, arkanoid)
+-- Milieu (global context menu, delete/duplicate/freeze/cut/copy/paste and beyond)
+-- Longsword (file browser with cached structure)
+-- Magister (custom lua script creation editing through virtual file system)
+-- Newton (force manipulator with joints and stuff)
+-- Kronos (per-frame playback and fps tools)
+-- Harry Emerson Fosdick
+
+if( true ) then return end
 
 IS_1K_MODE = IS_1K_MODE or false
 
