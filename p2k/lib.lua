@@ -1,3 +1,5 @@
+dofile_once( "mods/mnee/lib.lua" )
+
 --ability to drag the entire screen
 --window context is run from within mnee's init
 --do it as item mrshll style

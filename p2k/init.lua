@@ -1,6 +1,4 @@
---The Prospero Saga: Chapter 1 "The Setup"
-
--- bootable
+-- bootable (how come a basic fuckign text box is so fuckign hard)
 -- Noose (pie menu for capturing that gets all entities in the radius + gizmo + entity inspection)
 -- Loupe (various visual overlays, zooming, gridlines, entity highlighting)
 -- Tyrant (ruler with degree calculation and global memory)
