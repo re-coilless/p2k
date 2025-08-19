@@ -11,3 +11,4 @@ dofile_once( "mods/mnee/lib.lua" )
 --separate logic and rendering
 --const float SCREEN_W = 427.0; const float SCREEN_H = 605.0; - make it alterable via uniform
 --per-window error handling
+--add missing symbols to vanilla font

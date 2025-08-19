@@ -12,6 +12,9 @@
 -- Kronos (per-frame playback and fps tools)
 -- Harry Emerson Fosdick
 
+--teleporter app with full map
+--panopticon (general engine stuff like settings)
+
 if( true ) then return end
 
 IS_1K_MODE = IS_1K_MODE or false
